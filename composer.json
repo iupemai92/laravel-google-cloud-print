@@ -16,9 +16,9 @@
   },
   "require": {
     "php": ">=5.6.0",
-    "illuminate/config": "5.x",
-    "illuminate/session": "5.x",
-    "illuminate/support": "5.x",
+    "illuminate/config": "6.x",
+    "illuminate/session": "6.x",
+    "illuminate/support": "6.x",
     "google/apiclient": "^2.1"
   },
   "require-dev": {
